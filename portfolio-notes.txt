@@ -1,0 +1,499 @@
+--------------RESUME HTML-----------------
+
+		<section id = "resume">
+			<header>
+				<h2><span>Resume</span></h2>
+			</header>
+			<section id = "education">
+				<header>
+					<h3>Education</h3>
+				</header>
+				<header>
+					<h4>University of Colorado at Boulder - Boulder, CO</h4>
+				</header>
+				<p id = "education-info">Bachelor of Science - Technology Arts and Media<br>College of Engineering and Applied Sciences</p>
+				<p id = "education-dates">Expected May 2021</p>
+				<header>
+					<h4>Providence Country Day - East Providence, RI</h4>
+				</header>
+				<p id = "education-info">High School Diploma</p>
+				<p id = "education-dates">May 2017</p>
+			</section>
+			<section id = "Experience">
+				<header>
+					<h3>Experience</h3>
+				</header>
+				<header>
+					<h4>Classic Cruises of Newport - Newport, RI</h4>
+					<h5>Crew Member</h5>
+				</header>
+				<p id = "job-dates">Summer 2020</p>
+				<nav id = "job-info">
+					<ul>
+						<li>Worked as a crew member aboard the Schooner Madeleine</li>
+						<li>Gave tours of Newport Harbor; helping with rigging, derigging, and creating a fun environment for guesta aboard the ship</li>
+					</ul>
+				</nav>
+				<header>
+					<h4>East Bay Sailing Foundation - Bristol, RI</h4>
+					<h5>Sailing Instructor</h5>
+				</header>
+				<p id = "job-dates">Summer 2014 - Summer 2019</p>
+				<nav id = "job-info"> 
+					<ul>
+						<li>Held various positions including sailing assistant, Opti Beginner coach, and Beginner Mercury coach.</li>
+						<li>
+					</ul>
+				</nav>
+				<header>
+					<h4>Guck Incorporated - Bristol, RI</h4>
+					<h5>Boat Repair</h5>
+				</header>
+				<p id = "job-dates">Summer 2017 - Summer 2018</p>
+				<nav id = "job-info"> 
+					<ul>
+						<li>Helped work on repair and maintenance for local boats including Hereshoff S Boats, Rhodes 19's and 420's</li>
+					</ul>
+				</nav>
+			</section>
+			<section id = "skills">
+				<header>
+					<h3>Skills</h3>
+				</header>
+				<nav id = "technical-skills">
+					<header>
+						<h4>Technical Skills</h4>
+					</header>
+					<ul>
+						<li>C++</li>
+						<li>HTML, CSS, JavaScript</li>
+						<li>Adobe Creative Cloud</li>
+						<li>Logic Pro</li>
+						<li>Rhinoceros</li>
+						<li>Fusion 360</li>
+					</ul>
+				</nav>
+				<nav id = "personal-skills">
+					<header>
+						<h4>Personal Skills</h4>
+					</header>
+					<ul>
+						<li>Managing and supervising coworkers</li>
+						<li>Working in fast paced environments</li>
+						<li>Highly personable, friendly, and motivated</li>
+					</ul>
+				</nav>
+			</section>
+
+------------------------------SLIDESHOW STUFF--------------------------------
+
+<div class="slideshow-container">
+					<div class="mySlides fade">
+						<div class="numbertext">1 / 11</div>
+						<img src="type-slide-1.png" style="width:100%">
+						<div class="text">Caption Text</div>
+					</div>
+					<div class="mySlides fade">
+						<div class="numbertext">2 / 11</div>
+						<img src="type-slide-2.png" style="width:100%">
+						<div class="text">Caption Two</div>
+					</div>
+					<div class="mySlides fade">
+						<div class="numbertext">3 / 11</div>
+						<img src="type-slide-3.png" style="width:100%">
+						<div class="text">Caption Three</div>
+					</div>
+					<div class="mySlides fade">
+						<div class="numbertext">4 / 11</div>
+						<img src="type-slide-4.png" style="width:100%">
+						<div class="text">Caption Text</div>
+					</div>
+					<div class="mySlides fade">
+						<div class="numbertext">5 / 11</div>
+						<img src="type-slide-5.png" style="width:100%">
+						<div class="text">Caption Two</div>
+					</div>
+					<div class="mySlides fade">
+						<div class="numbertext">6 / 11</div>
+						<img src="type-slide-6.png" style="width:100%">
+						<div class="text">Caption Three</div>
+					</div>
+					<div class="mySlides fade">
+						<div class="numbertext">7 / 11</div>
+						<img src="type-slide-7.png" style="width:100%">
+						<div class="text">Caption Text</div>
+					</div>
+					<div class="mySlides fade">
+						<div class="numbertext">8 / 11</div>
+						<img src="type-slide-8.png" style="width:100%">
+						<div class="text">Caption Two</div>
+					</div>
+					<div class="mySlides fade">
+						<div class="numbertext">9 / 11</div>
+						<img src="type-slide-9.png" style="width:100%">
+						<div class="text">Caption Three</div>
+					</div>
+					<div class="mySlides fade">
+						<div class="numbertext">10 / 11</div>
+						<img src="type-slide-10.png" style="width:100%">
+						<div class="text">Caption Text</div>
+					</div>
+					<div class="mySlides fade">
+						<div class="numbertext">11 / 11</div>
+						<img src="type-slide-11.png" style="width:100%">
+						<div class="text">Caption Two</div>
+					<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+					<a class="next" onclick="plusSlides(1)">&#10095;</a>
+					</div>
+					<br>
+					<div style="text-align:center">
+						<span class="dot" onclick="currentSlide(1)"></span>
+						<span class="dot" onclick="currentSlide(2)"></span>
+						<span class="dot" onclick="currentSlide(3)"></span>
+						<span class="dot" onclick="currentSlide(4)"></span>
+						<span class="dot" onclick="currentSlide(5)"></span>
+						<span class="dot" onclick="currentSlide(6)"></span>
+						<span class="dot" onclick="currentSlide(7)"></span>
+						<span class="dot" onclick="currentSlide(8)"></span>
+						<span class="dot" onclick="currentSlide(9)"></span>
+						<span class="dot" onclick="currentSlide(10)"></span>
+						<span class="dot" onclick="currentSlide(11)"></span>
+					</div>
+				</div>
+
+
+
+var slideIndex = 1;
+showSlides(slideIndex);
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+}
+
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.mySlides {
+  display: none;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+------------------------Hover shit for portfolio-----------------------
+
+#project-thumbnails{
+	display: flex;
+	flex-direction: row;
+}
+
+#project-thumbnails img{
+	z-index: 1;
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+	object-fit: cover;
+}
+
+/*#project-thumbnails img:hover{
+	visibility: hidden;
+}*/
+
+#thumbnail-group{
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr;
+}
+
+#thumbnail{
+	grid-area: 1/1/2/2;
+}
+#thumbnail-text{
+	z-index: 2;
+	grid-area: 1/1/2/2;
+}
+
+#thumbnail:hover{
+	background-color: white;
+	border-radius: 50%;
+	border-color: black;
+	border-width: 1px;
+}
+
+#rotate{
+	transform: rotate(90deg);
+}
+
+<section id = "project-thumbnails">
+			<section id = "thumnail-group">
+				<figure id="thumbnail">
+					<img src = "img/internet.jpg" alt = "internet diagram">
+				</figure>
+				<p id = "thumbnail-text">Hypertext Narrative</p>
+			</section>
+			<section id = "thumnail-group">
+				<figure id="thumbnail">
+					<img src = "img/zen.jpg" alt = "zen garden sand">
+				</figure>
+				<p id = "thumbnail-text">CSS Zen Garden</p>
+			</section>
+			<section id = "thumnail-group">
+				<figure id="thumbnail">
+					<img id ="rotate" src = "img/portfolio-banner.jpeg" alt = "teddy robinson skiing">
+				</figure>
+				<p id = "thumbnail-text">Personal Portfolio</p>
+			</section>
+		</section>
+
+
+---------------------------WORK SECTION------------------------
+
+<section id = "work">
+			
+			<section id = "bjorn">
+				<header>
+					<h3>Volvo 240</h3>
+				</header>
+				<div class = "not-header">
+					<div id = "bjorn-info">
+						<p>In the summer of 2018, my friend Levi and I drove to South Windsor, CT with a UHaul trailer and  bought a 1990 Volvo 240 sedan for $450. It was not in running condition, despite what Beau LeBeau the used car dealer had said in his craigslist ad. Using my not so great negotiation skills, I was able to shave $150 off the original asking price of $600. After we trailered the car home we looked over every possible reason it wasn't starting and found that a bad distributor coil cable connection wasn't creating spark. After unpluging it, blowing on it gameboy style, and then plugging it back in, the engine started right up! However, we quickly noticed many many problems preventing it from being roadworthy, mainly the massive coolant leak coming from the water pump.</p>
+						<p>We therefore spent the next two summers replacing as many gaskets and seals as we could access, the water pump, thermostat, timing belt, radiator hoses, ignition coils, spark plugs, and flame trap. Outside of the engine bay we replaced the brake rotors, brake pads, main fuel pump, inline fuel pump, fuel filter, fuel sender, ball joints and transmission cross member.</p>
+						<p>About half way through the next summer, after we finished all our work, a number became ingrained in my head and still stirs around from time to time. 35. That is the the number of foot pounds of torque that is specified for tightening a Volvo B230 engine cam shaft gear bolt. However, when reassembling my engine, that number slipped my brain. During the celebratory first drive of my car that I had spent so many hours working on, I began to hear a rattling noise that became louder and louder with each mile I drove. About a block from my destination, Levi's house, I pulled over, the engine cut out, and didn't start up again. We pushed the car downhill the rest of the way and coasted into his driveway, unsure of the cause of the rattling noise. Once the car was parked we started it again only to hear a sound I will never forget. clank clank clank clank BANG!!!!! We popped the hood and gazed in horror. The cam shaft bolt had slowly wigled itself undone, the cam shaft became misaligned, the timing was ruined, and the connecting rod of piston 1 had gone straight through the side of the block, leaving a 2 inch hole in the side of my engine.</p>
+						<p>With a useless engine, and fueled by our extreme stuborness, we decided to push on and just replace the whole engine. During the last month of the summer, we took apart the old engine, swapped over all usable parts to a junkyard B230F engine, resealed it, and swapped it into my car.</p>
+						<p>Today the 240 is my daily driver. Here's a picture of it in the Surfer's End parking lot at Sachuest Beach in Newport, RI.</p>
+					</div>
+					<figure id = "bjorn-pic">
+						<img id = "bjorn-image" src="img/bjorn.JPG" alt="White Volvo 240 Sedan">
+					</figure>
+				</div>
+			</section>
+			
+			<section id = "chair">
+				<header>
+					<h3>Chair</h3>
+				</header>
+				<div class = "not-header">
+					<div id = "chair-info">	
+						<p>This chair was designed using a combination of digital and physical production techniques. First, I created a 3D model of the basic shape of my chair in Rhinoceros, which I then imported into Fusion360's slicer program to transform the model into  a series of interconnected slices. I then exported the outlines of each slice into a laser cutter, and using sheets of ¼ inch plywood I created a basic chair design consisting of interlocked wooden slices.</p>
+					</div>
+					<figure id = "chair-pic">
+						<img id = "chair-image" src="img/chair.jpg" alt="Wooden Chair">
+					</figure>
+				</div>
+			</section>
+			<section id = "tyopographic-booklet">
+				<header>
+					<h3>Typographic Booklet</h3>
+				</header>
+				<div class = "not-header">
+					<div id = "tame-info">	
+						<p>For this project, I was tasked with making an accordion booklet, with a typographic design, that expressed the emotion and meaning of a lyric of my choice. For this booklet, I chose to use the lyrics from the song 'Cause I'm A Man' by Tame Impala.</p> 
+					</div>
+					<ul id = "slides">
+						<li class = "slide showing">Slide 1</li>
+						<li class = "slide" >Slide 2</li>
+						<li class = "slide" >Slide 3</li>
+						<li class = "slide" >Slide 4</li>
+						<li class = "slide" >Slide 5</li>
+						<li class = "slide" >Slide 6</li>
+						<li class = "slide" >Slide 7</li>
+						<li class = "slide" >Slide 8</li>
+						<li class = "slide" >Slide 9</li>
+						<li class = "slide" >Slide 10</li>
+						<li class = "slide" >Slide 11</li>
+					</ul>
+				</div>
+			</section>
+			<section id = "reggae">
+				<header>
+					<h3>Reggae Song</h3>
+				</header>
+				<div class = "not-header">
+					<div id = "reggae-info">
+						<p>For this assignment, I used Logic Pro X to create a 3 minute long song in the style of my choosing. I chose to create a reggae instrumental that included some sampled audio from President Obama's visit to Kingston, Jamaica. The sound was inspired by the stepper beat, melodica, and horns of Augustus Pablo and other dub reggae musicians.</p>
+					</div>
+					<source>
+						<audio controls>
+							<source src="reggae.ogg" type="audio/ogg">
+							<source src= "reggae.mp3" type="audio/mpeg">
+							Your browser does not support the audio element.
+						</audio>
+					<source>
+				</div>
+				<!--FIGURE OUT HOW TO ADD THE AUDIO IN A GOOD WAY-->
+			</section>
+
+		</section>
+
+.not-header{
+	display: flex;
+	flex-direction: row;
+}
+
+#work{
+	margin-left: 5%;
+	margin-right: 5%;
+	display: grid;
+	grid-template-rows: 1fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr;
+}
+
+#bjorn{
+	grid-row-start: 1;
+	grid-row-end: 2;
+	grid-column-start: 1;
+	grid-column-end: 3;
+}
+
+#bjorn-image{
+	max-width: 400px;
+}
+
+#chair{
+	grid-row-start: 2;
+	grid-row-end: 3;
+	grid-column-start: 1;
+	grid-column-end: 2;
+}
+
+#chair-image{
+	max-width: 300px;
+}
+
+#typographic-booklet{
+	grid-row-start: 2;
+	grid-row-end: 3;
+	grid-column-start: 2;
+	grid-column-end: 3;
+}
+
+#slides{
+	position: relative;
+	height: 300px;
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+
+.slide{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	z-index: 1;
+
+	transition: opacity 1s;
+	-webkit-transition: opacity 1s;
+	-o-transition: opacity 1s;
+	-moz-transition: opacity 1s;
+}
+
+.showing{
+	opacity: 1;
+	z-index: 2;
+}
+
+
+#reggae{
+	grid-row-start: 3;
+	grid-row-end: 4;
+	grid-column-start: 1;
+	grid-column-end: 2;
+}
